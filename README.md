@@ -1,10 +1,10 @@
-ChargeIQ: AI-Powered EV Grid Management
-A Decision-Support Layer for BESCOM (Theme 9)
+**ChargeIQ: AI-Powered EV Grid Management**
+A Decision-Support Layer for BESCOM 
 
-🔍 Project Overview
+🔍** Project Overview**
 ChargeIQ is a dual-AI system designed to optimize Electric Vehicle (EV) charging infrastructure and grid load management for Bengaluru. It operates as a non-intrusive decision-support layer, requiring zero modifications to existing distribution systems.
 
-🚀 Key Features
+🚀** Key Features**
 Part A: Demand Prediction & Smart Scheduling
 
 Predicts EV charging demand using spatiotemporal modeling.
@@ -21,7 +21,7 @@ Uses Explainable AI (XAI) to provide "Evidence Cards" for grid planners.
 
 Ranks locations based on grid headroom, EV density, and accessibility.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 Frontend: Streamlit (Custom Dark Theme)
 
 Analytics: Python, Pandas, NumPy
