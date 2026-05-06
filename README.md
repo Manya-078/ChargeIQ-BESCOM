@@ -32,6 +32,9 @@ Data Strategy: Masked/Synthetic BESCOM grid data for privacy compliance.
 
 **📦 Installation**
 git clone https://github.com/Manya-078/ChargeIQ-BESCOM.git
+
 pip install -r requirements.txt
+
 python src/generate_data.py
+
 streamlit run app.py
